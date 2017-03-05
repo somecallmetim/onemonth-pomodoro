@@ -13,6 +13,11 @@
     font-size: 32px;
 }
 
+.clock-text{
+    text-align: center;
+    font-size: 20px;
+}
+
 .main-button{
     width: 80px;
 }
@@ -21,7 +26,16 @@
     text-align: center;
 }
 
-.btn-padding{
-    /*padding-left: 45px;*/
-    /*padding-right: 45px;*/
+.select-timer-dropdown{
+    text-align: center;
+    width: 100%;
+}
+
+.fill-columns{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.pomodoro-panel{
+    height: 133px;
 }
